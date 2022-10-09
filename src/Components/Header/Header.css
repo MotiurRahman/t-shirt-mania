@@ -1,0 +1,10 @@
+.navLink a {
+
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.navLink {
+    background-color: antiquewhite;
+    height: 50px;
+}
